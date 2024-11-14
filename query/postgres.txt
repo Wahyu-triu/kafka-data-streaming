@@ -1,0 +1,10 @@
+-- CREATE TABLE TO STORE PLAYERS DATA FROM WEBSITE
+
+CREATE TABLE db_football_player (
+  player_name VARCHAR(50),
+  position VARCHAR(50),
+  club_name VARCHAR(50),
+  country_name VARCHAR(50),
+  age INTEGER,
+  market_value FLOAT
+);

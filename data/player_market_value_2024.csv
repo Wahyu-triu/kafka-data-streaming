@@ -1,0 +1,501 @@
+,player_name,position,club_name,country_name,age,market_value
+0,Erling Haaland,Depan-Tengah,Manchester City,Norwegia,24,3476330000000.0
+1,Vinicius Junior,Sayap Kiri,Real Madrid,Brasil,24,3476330000000.0
+2,Jude Bellingham,Gel. Serang,Real Madrid,Inggris,21,3128700000000.0
+3,Kylian Mbappé,Depan-Tengah,Real Madrid,Prancis,25,3128700000000.0
+4,Lamine Yamal,Sayap Kanan,FC Barcelona,Spanyol,17,2607250000000.0
+5,Phil Foden,Sayap Kanan,Manchester City,Inggris,24,2607250000000.0
+6,Bukayo Saka,Sayap Kanan,Arsenal FC,Inggris,23,2433430000000.0
+7,Florian Wirtz,Gel. Serang,Bayer 04 Leverkusen,Jerman,21,2259610000000.0
+8,Jamal Musiala,Gel. Serang,Bayern Munich,Jerman,21,2259610000000.0
+9,Federico Valverde,Gel. Tengah,Real Madrid,Uruguay,26,2259610000000.0
+10,Rodri,Gel. Bertahan,Manchester City,Spanyol,28,2259610000000.0
+11,Declan Rice,Gel. Bertahan,Arsenal FC,Inggris,25,2085800000000.0
+12,Rodrygo,Sayap Kanan,Real Madrid,Brasil,23,1911980000000.0
+13,Lautaro Martínez,Depan-Tengah,Inter Milan,Argentina,27,1911980000000.0
+14,Martin Ødegaard,Gel. Serang,Arsenal FC,Norwegia,25,1911980000000.0
+15,Eduardo Camavinga,Gel. Tengah,Real Madrid,Prancis,22,1738160000000.0
+16,Aurélien Tchouaméni,Gel. Bertahan,Real Madrid,Prancis,24,1738160000000.0
+17,Harry Kane,Depan-Tengah,Bayern Munich,Inggris,31,1738160000000.0
+18,Gavi,Gel. Tengah,FC Barcelona,Spanyol,20,1564350000000.0
+19,Cole Palmer,Gel. Serang,Chelsea FC,Inggris,22,1564350000000.0
+20,Bruno Guimarães,Gel. Bertahan,Newcastle United,Brasil,26,1477440000000.0
+21,Pedri,Gel. Tengah,FC Barcelona,Spanyol,21,1390530000000.0
+22,Xavi Simons,Gel. Serang,RB Leipzig,Belanda,21,1390530000000.0
+23,Khvicha Kvaratskhelia,Sayap Kiri,SSC Napoli,Georgia,23,1390530000000.0
+24,William Saliba,Bek-Tengah,Arsenal FC,Prancis,23,1390530000000.0
+0,Erling Haaland,Depan-Tengah,Manchester City,Norwegia,24,3476330000000.0
+1,Rúben Dias,Bek-Tengah,Manchester City,Portugal,27,1390530000000.0
+2,Nicolò Barella,Gel. Tengah,Inter Milan,Italia,27,1390530000000.0
+3,Moisés Caicedo,Gel. Bertahan,Chelsea FC,Ekuador,23,1303620000000.0
+4,Enzo Fernández,Gel. Tengah,Chelsea FC,Argentina,23,1303620000000.0
+5,Julián Alvarez,Depan-Tengah,Atlético de Madrid,Argentina,24,1303620000000.0
+6,Alexis Mac Allister,Gel. Tengah,Liverpool FC,Argentina,25,1303620000000.0
+7,Josko Gvardiol,Bek-Kiri,Manchester City,Kroasia,22,1303620000000.0
+8,Dominik Szoboszlai,Gel. Tengah,Liverpool FC,Hungaria,24,1303620000000.0
+9,Gabriel Magalhães,Bek-Tengah,Arsenal FC,Brasil,26,1303620000000.0
+10,Victor Osimhen,Depan-Tengah,Galatasaray,Nigeria,25,1303620000000.0
+11,Rafael Leão,Sayap Kiri,AC Milan,Portugal,25,1303620000000.0
+12,Alexander Isak,Depan-Tengah,Newcastle United,Swedia,25,1303620000000.0
+13,Kai Havertz,Depan-Tengah,Arsenal FC,Jerman,25,1303620000000.0
+14,Nico Williams,Sayap Kiri,Athletic Bilbao,Spanyol,22,1216710000000.0
+15,Ronald Araujo,Bek-Tengah,FC Barcelona,Uruguay,25,1216710000000.0
+16,Viktor Gyökeres,Depan-Tengah,Sporting CP,Swedia,26,1216710000000.0
+17,Alessandro Bastoni,Bek-Tengah,Inter Milan,Italia,25,1216710000000.0
+18,Trent Alexander-Arnold,Bek-Kanan,Liverpool FC,Inggris,26,1216710000000.0
+19,James Maddison,Gel. Serang,Tottenham Hotspur,Inggris,27,1216710000000.0
+20,Bernardo Silva,Gel. Serang,Manchester City,Portugal,30,1216710000000.0
+21,Bradley Barcola,Sayap Kiri,Paris Saint-Germain,Prancis,22,1129810000000.0
+22,Rasmus Højlund,Depan-Tengah,Manchester United,Denmark,21,1129810000000.0
+23,Michael Olise,Sayap Kanan,Bayern Munich,Prancis,22,1129810000000.0
+24,Darwin Núñez,Depan-Tengah,Liverpool FC,Uruguay,25,1129810000000.0
+0,Jérémy Doku,Sayap Kiri,Manchester City,Belgia,22,1129810000000.0
+1,Dušan Vlahović,Depan-Tengah,Juventus FC,Serbia,24,1129810000000.0
+2,Cristian Romero,Bek-Tengah,Tottenham Hotspur,Argentina,26,1129810000000.0
+3,Christopher Nkunku,Gel. Serang,Chelsea FC,Prancis,26,1129810000000.0
+4,Ollie Watkins,Depan-Tengah,Aston Villa,Inggris,28,1129810000000.0
+5,Marcus Thuram,Depan-Tengah,Inter Milan,Prancis,27,1129810000000.0
+6,Bruno Fernandes,Gel. Serang,Manchester United,Portugal,30,1129810000000.0
+7,Endrick,Depan-Tengah,Real Madrid,Brasil,18,1042900000000.0
+8,Warren Zaïre-Emery,Gel. Tengah,Paris Saint-Germain,Prancis,18,1042900000000.0
+9,João Neves,Gel. Bertahan,Paris Saint-Germain,Portugal,20,1042900000000.0
+10,Gabriel Martinelli,Sayap Kiri,Arsenal FC,Brasil,23,1042900000000.0
+11,Bremer,Bek-Tengah,Juventus FC,Brasil,27,1042900000000.0
+12,Anthony Gordon,Sayap Kiri,Newcastle United,Inggris,23,1042900000000.0
+13,Eberechi Eze,Gel. Serang,Crystal Palace,Inggris,26,1042900000000.0
+14,Martín Zubimendi,Gel. Bertahan,Real Sociedad,Spanyol,25,1042900000000.0
+15,Raphinha,Sayap Kiri,FC Barcelona,Brasil,27,1042900000000.0
+16,Éder Militão,Bek-Tengah,Real Madrid,Brasil,26,1042900000000.0
+17,Achraf Hakimi,Bek-Kanan,Paris Saint-Germain,Maroko,26,1042900000000.0
+18,Loïs Openda,Depan-Tengah,RB Leipzig,Belgia,24,1042900000000.0
+19,Theo Hernández,Bek-Kiri,AC Milan,Prancis,27,1042900000000.0
+20,Frenkie de Jong,Gel. Tengah,FC Barcelona,Belanda,27,1042900000000.0
+21,Dani Olmo,Gel. Serang,FC Barcelona,Spanyol,26,1042900000000.0
+22,Ousmane Dembélé,Sayap Kanan,Paris Saint-Germain,Prancis,27,1042900000000.0
+23,Marcus Rashford,Sayap Kiri,Manchester United,Inggris,27,1042900000000.0
+24,Leroy Sané,Sayap Kanan,Bayern Munich,Jerman,28,1042900000000.0
+0,Leny Yoro,Bek-Tengah,Manchester United,Prancis,19,955990000000.0
+1,Kobbie Mainoo,Gel. Tengah,Manchester United,Inggris,19,955990000000.0
+2,Nuno Mendes,Bek-Kiri,Paris Saint-Germain,Portugal,22,955990000000.0
+3,Micky van de Ven,Bek-Tengah,Tottenham Hotspur,Belanda,23,955990000000.0
+4,Vitinha,Gel. Tengah,Paris Saint-Germain,Portugal,24,955990000000.0
+5,Pedro Neto,Sayap Kanan,Chelsea FC,Portugal,24,955990000000.0
+6,Amadou Onana,Gel. Bertahan,Aston Villa,Belgia,23,955990000000.0
+7,Douglas Luiz,Gel. Tengah,Juventus FC,Brasil,26,955990000000.0
+8,Lucas Paquetá,Gel. Serang,West Ham United,Brasil,27,955990000000.0
+9,Cody Gakpo,Sayap Kiri,Liverpool FC,Belanda,25,955990000000.0
+10,Dejan Kulusevski,Gel. Serang,Tottenham Hotspur,Swedia,24,955990000000.0
+11,Jules Koundé,Bek-Kanan,FC Barcelona,Prancis,26,955990000000.0
+12,Moussa Diaby,Sayap Kanan,Al-Ittihad Club,Prancis,25,955990000000.0
+13,Gabriel Jesus,Depan-Tengah,Arsenal FC,Brasil,27,955990000000.0
+14,Teun Koopmeiners,Gel. Serang,Juventus FC,Belanda,26,955990000000.0
+15,Ben White,Bek-Kanan,Arsenal FC,Inggris,27,955990000000.0
+16,Matthijs de Ligt,Bek-Tengah,Manchester United,Belanda,25,955990000000.0
+17,Jack Grealish,Sayap Kiri,Manchester City,Inggris,29,955990000000.0
+18,Mohamed Salah,Sayap Kanan,Liverpool FC,Mesir,32,955990000000.0
+19,Alejandro Garnacho,Sayap Kiri,Manchester United,Argentina,20,869080000000.0
+20,Aleksandar Pavlovic,Gel. Bertahan,Bayern Munich,Jerman,20,869080000000.0
+21,Savinho,Sayap Kanan,Manchester City,Brasil,20,869080000000.0
+22,Fermín López,Gel. Tengah,FC Barcelona,Spanyol,21,869080000000.0
+23,Benjamin Sesko,Depan-Tengah,RB Leipzig,Slovenia,21,869080000000.0
+24,João Pedro,Depan-Tengah,Brighton & Hove Albion,Brasil,23,869080000000.0
+0,Levi Colwill,Bek-Tengah,Chelsea FC,Inggris,21,869080000000.0
+1,Gonçalo Ramos,Depan-Tengah,Paris Saint-Germain,Portugal,23,869080000000.0
+2,Álex Baena,Sayap Kiri,Villarreal CF,Spanyol,23,869080000000.0
+3,Mohammed Kudus,Sayap Kanan,West Ham United,Ghana,24,869080000000.0
+4,Conor Gallagher,Gel. Tengah,Atlético de Madrid,Inggris,24,869080000000.0
+5,Jeremie Frimpong,Gelandang Kanan,Bayer 04 Leverkusen,Belanda,23,869080000000.0
+6,Lisandro Martínez,Bek-Tengah,Manchester United,Argentina,26,869080000000.0
+7,Manuel Ugarte,Gel. Bertahan,Manchester United,Uruguay,23,869080000000.0
+8,Joshua Zirkzee,Depan-Tengah,Manchester United,Belanda,23,869080000000.0
+9,Alphonso Davies,Bek-Kiri,Bayern Munich,Kanada,24,869080000000.0
+10,Takefusa Kubo,Sayap Kanan,Real Sociedad,Jepang,23,869080000000.0
+11,Diogo Jota,Depan-Tengah,Liverpool FC,Portugal,27,869080000000.0
+12,Mikel Merino,Gel. Tengah,Arsenal FC,Spanyol,28,869080000000.0
+13,Christian Pulisic,Sayap Kanan,AC Milan,Amerika Serikat,26,869080000000.0
+14,Jarrod Bowen,Sayap Kanan,West Ham United,Inggris,27,869080000000.0
+15,João Palhinha,Gel. Bertahan,Bayern Munich,Portugal,29,869080000000.0
+16,Ivan Toney,Depan-Tengah,Al-Ahli SFC,Inggris,28,869080000000.0
+17,Federico Dimarco,Bek-Kiri,Inter Milan,Italia,27,869080000000.0
+18,Marquinhos,Bek-Tengah,Paris Saint-Germain,Brasil,30,869080000000.0
+19,Joshua Kimmich,Gel. Bertahan,Bayern Munich,Jerman,29,869080000000.0
+20,Brennan Johnson,Sayap Kanan,Tottenham Hotspur,Wales,23,834320000000.0
+21,Arda Güler,Sayap Kanan,Real Madrid,Turki,19,782170000000.0
+22,Victor Boniface,Depan-Tengah,Bayer 04 Leverkusen,Nigeria,23,782170000000.0
+23,Evan Ferguson,Depan-Tengah,Brighton & Hove Albion,Irlandia,20,782170000000.0
+24,Giorgio Scalvini,Bek-Tengah,Atalanta BC,Italia,20,782170000000.0
+0,Pape Matar Sarr,Gel. Tengah,Tottenham Hotspur,Senegal,22,782170000000.0
+1,Johan Bakayoko,Sayap Kanan,PSV Eindhoven,Belgia,21,782170000000.0
+2,Edmond Tapsoba,Bek-Tengah,Bayer 04 Leverkusen,Burkina Faso,25,782170000000.0
+3,Destiny Udogie,Bek-Kiri,Tottenham Hotspur,Italia,21,782170000000.0
+4,Pedro Porro,Bek-Kanan,Tottenham Hotspur,Spanyol,25,782170000000.0
+5,Gonçalo Inácio,Bek-Tengah,Sporting CP,Portugal,23,782170000000.0
+6,Jonathan David,Depan-Tengah,LOSC Lille,Kanada,24,782170000000.0
+7,Matheus Cunha,Depan-Tengah,Wolverhampton Wanderers,Brasil,25,782170000000.0
+8,Kaoru Mitoma,Sayap Kiri,Brighton & Hove Albion,Jepang,27,782170000000.0
+9,Min-jae Kim,Bek-Tengah,Bayern Munich,Korea Selatan,27,782170000000.0
+10,Riccardo Calafiori,Bek-Kiri,Arsenal FC,Italia,22,782170000000.0
+11,Giorgi Mamardashvili,Kiper,Valencia CF,Georgia,24,782170000000.0
+12,Exequiel Palacios,Gel. Tengah,Bayer 04 Leverkusen,Argentina,26,782170000000.0
+13,Pau Torres,Bek-Tengah,Aston Villa,Spanyol,27,782170000000.0
+14,Marc Guéhi,Bek-Tengah,Crystal Palace,Inggris,24,782170000000.0
+15,Sven Botman,Bek-Tengah,Newcastle United,Belanda,24,782170000000.0
+16,Diogo Costa,Kiper,FC Porto,Portugal,25,782170000000.0
+17,Ibrahima Konaté,Bek-Tengah,Liverpool FC,Prancis,25,782170000000.0
+18,Benjamin Pavard,Bek-Tengah,Inter Milan,Prancis,28,782170000000.0
+19,Dayot Upamecano,Bek-Tengah,Bayern Munich,Prancis,26,782170000000.0
+20,Manuel Akanji,Bek-Tengah,Manchester City,Swiss,29,782170000000.0
+21,Dominic Solanke,Depan-Tengah,Tottenham Hotspur,Inggris,27,782170000000.0
+22,Alejandro Grimaldo,Bek-Kiri,Bayer 04 Leverkusen,Spanyol,29,782170000000.0
+23,Hakan Çalhanoğlu,Gel. Bertahan,Inter Milan,Turki,30,782170000000.0
+24,Heung-min Son,Sayap Kiri,Tottenham Hotspur,Korea Selatan,32,782170000000.0
+0,Kevin De Bruyne,Gel. Serang,Manchester City,Belgia,33,782170000000.0
+1,Jarrad Branthwaite,Bek-Tengah,Everton FC,Inggris,22,730030000000.0
+2,Enzo Millot,Gel. Serang,VfB Stuttgart,Prancis,22,730030000000.0
+3,Leon Bailey,Sayap Kanan,Aston Villa,Jamaika,27,730030000000.0
+4,Estêvão,Sayap Kanan,Sociedade Esportiva Palmeiras,Brasil,17,695270000000.0
+5,Murillo,Bek-Tengah,Nottingham Forest,Brasil,22,695270000000.0
+6,Ousmane Diomande,Bek-Tengah,Sporting CP,Pantai Gading,20,695270000000.0
+7,Pau Cubarsí,Bek-Tengah,FC Barcelona,Spanyol,17,695270000000.0
+8,Désiré Doué,Sayap Kiri,Paris Saint-Germain,Prancis,19,695270000000.0
+9,Kenan Yıldız,Sayap Kiri,Juventus FC,Turki,19,695270000000.0
+10,Mathys Tel,Sayap Kiri,Bayern Munich,Prancis,19,695270000000.0
+11,Nicolas Jackson,Depan-Tengah,Chelsea FC,Senegal,23,695270000000.0
+12,João Gomes,Gel. Tengah,Wolverhampton Wanderers,Brasil,23,695270000000.0
+13,Rico Lewis,Bek-Kanan,Manchester City,Inggris,19,695270000000.0
+14,Willian Pacho,Bek-Tengah,Paris Saint-Germain,Ekuador,23,695270000000.0
+15,Piero Hincapié,Bek-Tengah,Bayer 04 Leverkusen,Ekuador,22,695270000000.0
+16,António Silva,Bek-Tengah,SL Benfica,Portugal,21,695270000000.0
+17,Alejandro Balde,Bek-Kiri,FC Barcelona,Spanyol,21,695270000000.0
+18,Castello Lukeba,Bek-Tengah,RB Leipzig,Prancis,21,695270000000.0
+19,Éderson,Gel. Tengah,Atalanta BC,Brasil,25,695270000000.0
+20,Matheus Nunes,Gel. Tengah,Manchester City,Portugal,26,695270000000.0
+21,Oihan Sancet,Gel. Serang,Athletic Bilbao,Spanyol,24,695270000000.0
+22,Santiago Gimenez,Depan-Tengah,Feyenoord Rotterdam,Meksiko,23,695270000000.0
+23,Randal Kolo Muani,Depan-Tengah,Paris Saint-Germain,Prancis,25,695270000000.0
+24,Ian Maatsen,Bek-Kiri,Aston Villa,Belanda,22,695270000000.0
+0,Kevin De Bruyne,Gel. Serang,Manchester City,Belgia,33,782170000000.0
+1,Morten Hjulmand,Gel. Bertahan,Sporting CP,Denmark,25,695270000000.0
+2,Omar Marmoush,Depan-Tengah,Eintracht Frankfurt,Mesir,25,695270000000.0
+3,Morgan Gibbs-White,Gel. Serang,Nottingham Forest,Inggris,24,695270000000.0
+4,Bryan Mbeumo,Sayap Kanan,Brentford FC,Kamerun,25,695270000000.0
+5,Ademola Lookman,Depan-Kedua,Atalanta BC,Nigeria,27,695270000000.0
+6,Nico Schlotterbeck,Bek-Tengah,Borussia Dortmund,Jerman,24,695270000000.0
+7,Diogo Dalot,Bek-Kanan,Manchester United,Portugal,25,695270000000.0
+8,Robin Le Normand,Bek-Tengah,Atlético de Madrid,Spanyol,28,695270000000.0
+9,Mikel Oyarzabal,Depan-Tengah,Real Sociedad,Spanyol,27,695270000000.0
+10,Joelinton,Gel. Tengah,Newcastle United,Brasil,28,695270000000.0
+11,Donyell Malen,Sayap Kanan,Borussia Dortmund,Belanda,25,695270000000.0
+12,Gianluigi Donnarumma,Kiper,Paris Saint-Germain,Italia,25,695270000000.0
+13,Brahim Díaz,Gel. Serang,Real Madrid,Maroko,25,695270000000.0
+14,Brais Méndez,Gel. Serang,Real Sociedad,Spanyol,27,695270000000.0
+15,Lucas Hernández,Bek-Kiri,Paris Saint-Germain,Prancis,28,695270000000.0
+16,Serhou Guirassy,Depan-Tengah,Borussia Dortmund,Guinea,28,695270000000.0
+17,Gregor Kobel,Kiper,Borussia Dortmund,Swiss,26,695270000000.0
+18,Kingsley Coman,Sayap Kiri,Bayern Munich,Prancis,28,695270000000.0
+19,Julian Brandt,Gel. Serang,Borussia Dortmund,Jerman,28,695270000000.0
+20,Nathan Aké,Bek-Tengah,Manchester City,Belanda,29,695270000000.0
+21,Serge Gnabry,Sayap Kiri,Bayern Munich,Jerman,29,695270000000.0
+22,Maximilian Kilman,Bek-Tengah,West Ham United,Inggris,27,660500000000.0
+23,Jurrien Timber,Bek-Tengah,Arsenal FC,Belanda,23,660500000000.0
+24,Sandro Tonali,Gel. Tengah,Newcastle United,Italia,24,660500000000.0
+0,Boubacar Kamara,Gel. Bertahan,Aston Villa,Prancis,24,660500000000.0
+1,John Stones,Bek-Tengah,Manchester City,Inggris,30,660500000000.0
+2,Mike Maignan,Kiper,AC Milan,Prancis,29,660500000000.0
+3,Samu Aghehowa,Depan-Tengah,FC Porto,Spanyol,20,608360000000.0
+4,Alan Varela,Gel. Bertahan,FC Porto,Argentina,23,608360000000.0
+5,Evanilson,Depan-Tengah,AFC Bournemouth,Brasil,25,608360000000.0
+6,Jamie Gittens,Sayap Kiri,Borussia Dortmund,Inggris,20,608360000000.0
+7,Mohamed Simakan,Bek-Tengah,Al-Nassr FC,Prancis,24,608360000000.0
+8,Jhon Durán,Depan-Tengah,Aston Villa,Kolombia,20,608360000000.0
+9,Roméo Lavia,Gel. Bertahan,Chelsea FC,Belgia,20,608360000000.0
+10,Georgiy Sudakov,Gel. Serang,Shakhtar Donetsk,Ukraina,22,608360000000.0
+11,Malo Gusto,Bek-Kanan,Chelsea FC,Prancis,21,608360000000.0
+12,Jean-Clair Todibo,Bek-Tengah,West Ham United,Prancis,24,608360000000.0
+13,Rayan Aït-Nouri,Bek-Kiri,Wolverhampton Wanderers,Aljazair,23,608360000000.0
+14,Harvey Elliott,Gel. Tengah,Liverpool FC,Inggris,21,608360000000.0
+15,Cheick Doucouré,Gel. Bertahan,Crystal Palace,Mali,24,608360000000.0
+16,Mason Greenwood,Sayap Kanan,Olympique Marseille,Inggris,23,608360000000.0
+17,Noni Madueke,Sayap Kanan,Chelsea FC,Inggris,22,608360000000.0
+18,Tino Livramento,Bek-Kanan,Newcastle United,Inggris,22,608360000000.0
+19,Karim Adeyemi,Sayap Kiri,Borussia Dortmund,Jerman,22,608360000000.0
+20,Nico González,Sayap Kanan,Juventus FC,Argentina,26,608360000000.0
+21,Brian Brobbey,Depan-Tengah,Ajax Amsterdam,Belanda,22,608360000000.0
+22,Reece James,Bek-Kanan,Chelsea FC,Inggris,24,608360000000.0
+23,Khéphren Thuram,Gel. Tengah,Juventus FC,Prancis,23,608360000000.0
+24,Curtis Jones,Gel. Tengah,Liverpool FC,Inggris,23,608360000000.0
+0,Quinten Timber,Gel. Tengah,Feyenoord Rotterdam,Belanda,23,608360000000.0
+1,Ezri Konsa,Bek-Tengah,Aston Villa,Inggris,27,608360000000.0
+2,Yves Bissouma,Gel. Bertahan,Tottenham Hotspur,Mali,28,608360000000.0
+3,Joey Veerman,Gel. Tengah,PSV Eindhoven,Belanda,25,608360000000.0
+4,Dávid Hancko,Bek-Tengah,Feyenoord Rotterdam,Slovakia,26,608360000000.0
+5,Edson Álvarez,Gel. Bertahan,West Ham United,Meksiko,27,608360000000.0
+6,Harvey Barnes,Sayap Kiri,Newcastle United,Inggris,26,608360000000.0
+7,Davide Frattesi,Gel. Tengah,Inter Milan,Italia,25,608360000000.0
+8,Alessandro Buongiorno,Bek-Tengah,SSC Napoli,Italia,25,608360000000.0
+9,Axel Disasi,Bek-Tengah,Chelsea FC,Prancis,26,608360000000.0
+10,Richarlison,Depan-Tengah,Tottenham Hotspur,Brasil,27,608360000000.0
+11,Nayef Aguerd,Bek-Tengah,Real Sociedad,Maroko,28,608360000000.0
+12,Rodrigo Bentancur,Gel. Bertahan,Tottenham Hotspur,Uruguay,27,608360000000.0
+13,Fabián Ruiz,Gel. Tengah,Paris Saint-Germain,Spanyol,28,608360000000.0
+14,Jerdy Schouten,Gel. Bertahan,PSV Eindhoven,Belanda,27,608360000000.0
+15,Mason Mount,Gel. Serang,Manchester United,Inggris,25,608360000000.0
+16,Artem Dovbyk,Depan-Tengah,AS Roma,Ukraina,27,608360000000.0
+17,Takehiro Tomiyasu,Bek-Kanan,Arsenal FC,Jepang,26,608360000000.0
+18,Gianluca Scamacca,Depan-Tengah,Atalanta BC,Italia,25,608360000000.0
+19,Guglielmo Vicario,Kiper,Tottenham Hotspur,Italia,28,608360000000.0
+20,David Raya,Kiper,Arsenal FC,Spanyol,29,608360000000.0
+21,Joachim Andersen,Bek-Tengah,Fulham FC,Denmark,28,608360000000.0
+22,Ederson,Kiper,Manchester City,Brasil,31,608360000000.0
+23,André Onana,Kiper,Manchester United,Kamerun,28,608360000000.0
+24,Oleksandr Zinchenko,Bek-Kiri,Arsenal FC,Ukraina,27,608360000000.0
+0,Quinten Timber,Gel. Tengah,Feyenoord Rotterdam,Belanda,23,608360000000.0
+1,Raheem Sterling,Sayap Kiri,Arsenal FC,Inggris,29,608360000000.0
+2,Charles De Ketelaere,Gel. Serang,Atalanta BC,Belgia,23,590980000000.0
+3,Ilya Zabarnyi,Bek-Tengah,AFC Bournemouth,Ukraina,22,556210000000.0
+4,Jacob Ramsey,Gel. Serang,Aston Villa,Inggris,23,556210000000.0
+5,Pedro Gonçalves,Sayap Kiri,Sporting CP,Portugal,26,556210000000.0
+6,Lutsharel Geertruida,Bek-Kanan,RB Leipzig,Belanda,24,556210000000.0
+7,Scott McTominay,Gel. Tengah,SSC Napoli,Skotlandia,27,556210000000.0
+8,Fikayo Tomori,Bek-Tengah,AC Milan,Inggris,26,556210000000.0
+9,Rúben Neves,Gel. Bertahan,Al-Hilal SFC,Portugal,27,556210000000.0
+10,Vitor Roque,Depan-Tengah,Real Betis Balompié,Brasil,19,521450000000.0
+11,Jorrel Hato,Bek-Kiri,Ajax Amsterdam,Belanda,18,521450000000.0
+12,Lucas Beraldo,Bek-Tengah,Paris Saint-Germain,Brasil,20,521450000000.0
+13,Pablo Barrios,Gel. Tengah,Atlético de Madrid,Spanyol,21,521450000000.0
+14,Maghnes Akliouche,Sayap Kanan,AS Monaco,Prancis,22,521450000000.0
+15,Adam Wharton,Gel. Bertahan,Crystal Palace,Inggris,20,521450000000.0
+16,Hugo Ekitiké,Depan-Tengah,Eintracht Frankfurt,Prancis,22,521450000000.0
+17,Samuel Lino,Sayap Kiri,Atlético de Madrid,Brasil,24,521450000000.0
+18,Elye Wahi,Depan-Tengah,Olympique Marseille,Prancis,21,521450000000.0
+19,Simon Adingra,Sayap Kanan,Brighton & Hove Albion,Pantai Gading,22,521450000000.0
+20,Bilal El Khannouss,Gel. Serang,Leicester City,Maroko,20,521450000000.0
+21,Cristhian Mosquera,Bek-Tengah,Valencia CF,Spanyol,20,521450000000.0
+22,Odilon Kossounou,Bek-Tengah,Atalanta BC,Pantai Gading,23,521450000000.0
+23,Maximilian Beier,Depan-Tengah,Borussia Dortmund,Jerman,22,521450000000.0
+24,Youssouf Fofana,Gel. Bertahan,AC Milan,Prancis,25,521450000000.0
+0,Leandro Trossard,Sayap Kiri,Arsenal FC,Belgia,29,608360000000.0
+1,Mykhaylo Mudryk,Sayap Kiri,Chelsea FC,Ukraina,23,521450000000.0
+2,Amine Adli,Sayap Kiri,Bayer 04 Leverkusen,Maroko,24,521450000000.0
+3,Dani Vivian,Bek-Tengah,Athletic Bilbao,Spanyol,25,521450000000.0
+4,Pepê,Sayap Kiri,FC Porto,Brasil,27,521450000000.0
+5,Kiernan Dewsbury-Hall,Gel. Tengah,Chelsea FC,Inggris,26,521450000000.0
+6,Benoît Badiashile,Bek-Tengah,Chelsea FC,Prancis,23,521450000000.0
+7,João Félix,Depan-Kedua,Chelsea FC,Portugal,25,521450000000.0
+8,Tijjani Reijnders,Gel. Tengah,AC Milan,Belanda,26,521450000000.0
+9,Andrea Cambiaso,Bek-Kiri,Juventus FC,Italia,24,521450000000.0
+10,Jakub Kiwior,Bek-Tengah,Arsenal FC,Polandia,24,521450000000.0
+11,Mats Wieffer,Gel. Bertahan,Brighton & Hove Albion,Belanda,24,521450000000.0
+12,Jadon Sancho,Sayap Kiri,Chelsea FC,Inggris,24,521450000000.0
+13,Ferran Torres,Sayap Kanan,FC Barcelona,Spanyol,24,521450000000.0
+14,Ibrahim Sangaré,Gel. Bertahan,Nottingham Forest,Pantai Gading,26,521450000000.0
+15,Ferdi Kadıoğlu,Bek-Kiri,Brighton & Hove Albion,Turki,25,521450000000.0
+16,Hiroki Ito,Bek-Tengah,Bayern Munich,Jepang,25,521450000000.0
+17,Pervis Estupiñán,Bek-Kiri,Brighton & Hove Albion,Ekuador,26,521450000000.0
+18,Federico Chiesa,Sayap Kanan,Liverpool FC,Italia,27,521450000000.0
+19,Noussair Mazraoui,Bek-Kanan,Manchester United,Maroko,26,521450000000.0
+20,Joe Willock,Gel. Tengah,Newcastle United,Inggris,25,521450000000.0
+21,Eddie Nketiah,Depan-Tengah,Crystal Palace,Inggris,25,521450000000.0
+22,Albert Gudmundsson,Depan-Kedua,ACF Fiorentina,Islandia,27,521450000000.0
+23,Marc Cucurella,Bek-Kiri,Chelsea FC,Spanyol,26,521450000000.0
+24,Tomas Soucek,Gel. Bertahan,West Ham United,Republik Ceko,29,521450000000.0
+0,Marcos Llorente,Gelandang Kanan,Atlético de Madrid,Spanyol,29,521450000000.0
+1,Sergej Milinković-Savić,Gel. Tengah,Al-Hilal SFC,Serbia,29,521450000000.0
+2,Viktor Tsygankov,Sayap Kanan,Girona FC,Ukraina,26,521450000000.0
+3,Aleksandr Golovin,Gel. Serang,AS Monaco,Rusia,28,521450000000.0
+4,Unai Simón,Kiper,Athletic Bilbao,Spanyol,27,521450000000.0
+5,Rodrigo De Paul,Gel. Tengah,Atlético de Madrid,Argentina,30,521450000000.0
+6,Youri Tielemans,Gel. Tengah,Aston Villa,Belgia,27,521450000000.0
+7,Andrew Robertson,Bek-Kiri,Liverpool FC,Skotlandia,30,521450000000.0
+8,Konrad Laimer,Gel. Tengah,Bayern Munich,Austria,27,521450000000.0
+9,Andreas Christensen,Bek-Tengah,FC Barcelona,Denmark,28,521450000000.0
+10,Jonathan Tah,Bek-Tengah,Bayer 04 Leverkusen,Jerman,28,521450000000.0
+11,John McGinn,Gel. Tengah,Aston Villa,Skotlandia,30,521450000000.0
+12,Adrien Rabiot,Gel. Tengah,Olympique Marseille,Prancis,29,521450000000.0
+13,Virgil van Dijk,Bek-Tengah,Liverpool FC,Belanda,33,521450000000.0
+14,Romelu Lukaku,Depan-Tengah,SSC Napoli,Belgia,31,521450000000.0
+15,Neymar,Sayap Kiri,Al-Hilal SFC,Brasil,32,521450000000.0
+16,Mateo Kovacic,Gel. Tengah,Manchester City,Kroasia,30,521450000000.0
+17,Yankuba Minteh,Sayap Kanan,Brighton & Hove Albion,Gambia,20,486690000000.0
+18,Hugo Larsson,Gel. Tengah,Eintracht Frankfurt,Swedia,20,486690000000.0
+19,Danilo,Gel. Bertahan,Nottingham Forest,Brasil,23,486690000000.0
+20,Mateo Retegui,Depan-Tengah,Atalanta BC,Italia,25,486690000000.0
+21,Georginio Rutter,Depan-Tengah,Brighton & Hove Albion,Prancis,22,486690000000.0
+22,Josip Stanisic,Bek-Kanan,Bayern Munich,Kroasia,24,486690000000.0
+23,David Neres,Sayap Kanan,SSC Napoli,Brasil,27,486690000000.0
+24,Samuele Ricci,Gel. Bertahan,Torino FC,Italia,23,486690000000.0
+0,Orkun Kökçü,Gel. Tengah,SL Benfica,Turki,23,486690000000.0
+1,Angelo Stiller,Gel. Bertahan,VfB Stuttgart,Jerman,23,486690000000.0
+2,Matty Cash,Bek-Kanan,Aston Villa,Polandia,27,486690000000.0
+3,Nahuel Molina,Bek-Kanan,Atlético de Madrid,Argentina,26,486690000000.0
+4,Vitaliy Mykolenko,Bek-Kiri,Everton FC,Ukraina,25,486690000000.0
+5,Angel Gomes,Gel. Serang,LOSC Lille,Inggris,24,486690000000.0
+6,Emile Smith Rowe,Gel. Serang,Fulham FC,Inggris,24,486690000000.0
+7,Yoane Wissa,Depan-Tengah,Brentford FC,Republik Demokratik Kongo,28,486690000000.0
+8,Deniz Undav,Depan-Tengah,VfB Stuttgart,Jerman,28,486690000000.0
+9,Ermedin Demirovic,Depan-Tengah,VfB Stuttgart,Bosnia-Herzegovina,26,486690000000.0
+10,Denis Zakaria,Gel. Bertahan,AS Monaco,Swiss,27,486690000000.0
+11,Malcom,Sayap Kanan,Al-Hilal SFC,Brasil,27,486690000000.0
+12,Mathias Jensen,Gel. Tengah,Brentford FC,Denmark,28,486690000000.0
+13,Taiwo Awoniyi,Depan-Tengah,Nottingham Forest,Nigeria,27,486690000000.0
+14,Manuel Locatelli,Gel. Bertahan,Juventus FC,Italia,26,486690000000.0
+15,Joe Gomez,Bek-Tengah,Liverpool FC,Inggris,27,486690000000.0
+16,Xaver Schlager,Gel. Tengah,RB Leipzig,Austria,27,486690000000.0
+17,Stanislav Lobotka,Gel. Bertahan,SSC Napoli,Slovakia,29,486690000000.0
+18,Luke Shaw,Bek-Kiri,Manchester United,Inggris,29,486690000000.0
+19,Jan Oblak,Kiper,Atlético de Madrid,Slovenia,31,486690000000.0
+20,Emiliano Martínez,Kiper,Aston Villa,Argentina,32,486690000000.0
+21,Alisson,Kiper,Liverpool FC,Brasil,32,486690000000.0
+22,Aleksandar Mitrović,Depan-Tengah,Al-Hilal SFC,Serbia,30,486690000000.0
+23,Thiago Almada,Gel. Serang,Botafogo de Futebol e Regatas,Argentina,23,469300000000.0
+24,Galeno,Sayap Kiri,FC Porto,Brasil,27,469300000000.0
+0,Orkun Kökçü,Gel. Tengah,SL Benfica,Turki,23,486690000000.0
+1,Olivier Boscagli,Bek-Tengah,PSV Eindhoven,Prancis,26,469300000000.0
+2,Oscar Gloukh,Gel. Serang,Red Bull Salzburg,Israel,20,434540000000.0
+3,Arthur Vermeeren,Gel. Bertahan,RB Leipzig,Belgia,19,434540000000.0
+4,Archie Gray,Bek-Kanan,Tottenham Hotspur,Inggris,18,434540000000.0
+5,Karim Konaté,Depan-Tengah,Red Bull Salzburg,Pantai Gading,20,434540000000.0
+6,André,Gel. Bertahan,Wolverhampton Wanderers,Brasil,23,434540000000.0
+7,Igor Thiago,Depan-Tengah,Brentford FC,Brasil,23,434540000000.0
+8,Tyrick Mitchell,Bek-Kiri,Crystal Palace,Inggris,25,434540000000.0
+9,Lesley Ugochukwu,Gel. Bertahan,Southampton FC,Prancis,20,434540000000.0
+10,Brajan Gruda,Sayap Kanan,Brighton & Hove Albion,Jerman,20,434540000000.0
+11,Gabri Veiga,Gel. Tengah,Al-Ahli SFC,Spanyol,22,434540000000.0
+12,Matías Soulé,Sayap Kanan,AS Roma,Argentina,21,434540000000.0
+13,Marcos Leonardo,Depan-Tengah,Al-Hilal SFC,Brasil,21,434540000000.0
+14,Oscar Bobb,Sayap Kanan,Manchester City,Norwegia,21,434540000000.0
+15,Wilfried Singo,Bek-Tengah,AS Monaco,Pantai Gading,23,434540000000.0
+16,Yan Couto,Bek-Kanan,Borussia Dortmund,Brasil,22,434540000000.0
+17,Aaron Hickey,Bek-Kanan,Brentford FC,Skotlandia,22,434540000000.0
+18,Anthony Elanga,Sayap Kanan,Nottingham Forest,Swedia,22,434540000000.0
+19,Radu Drăgușin,Bek-Tengah,Tottenham Hotspur,Rumania,22,434540000000.0
+20,Kang-in Lee,Gel. Serang,Paris Saint-Germain,Korea Selatan,23,434540000000.0
+21,Anatoliy Trubin,Kiper,SL Benfica,Ukraina,23,434540000000.0
+22,Miguel Gutiérrez,Bek-Kiri,Girona FC,Spanyol,23,434540000000.0
+23,Federico Gatti,Bek-Tengah,Juventus FC,Italia,26,434540000000.0
+24,Folarin Balogun,Depan-Tengah,AS Monaco,Amerika Serikat,23,434540000000.0
+0,Edon Zhegrova,Sayap Kanan,LOSC Lille,Kosovo,25,434540000000.0
+1,Wesley Fofana,Bek-Tengah,Chelsea FC,Prancis,23,434540000000.0
+2,Facundo Medina,Bek-Tengah,RC Lens,Argentina,25,434540000000.0
+3,Nathan Collins,Bek-Tengah,Brentford FC,Irlandia,23,434540000000.0
+4,Malik Tillman,Gel. Serang,PSV Eindhoven,Amerika Serikat,22,434540000000.0
+5,Mattéo Guendouzi,Gel. Tengah,SS Lazio,Prancis,25,434540000000.0
+6,Lucas Chevalier,Kiper,LOSC Lille,Prancis,23,434540000000.0
+7,Rodrigo Riquelme,Sayap Kiri,Atlético de Madrid,Spanyol,24,434540000000.0
+8,Yann Bisseck,Bek-Tengah,Inter Milan,Jerman,23,434540000000.0
+9,Jørgen Strand Larsen,Depan-Tengah,Wolverhampton Wanderers,Norwegia,24,434540000000.0
+10,Amine Gouiri,Depan-Tengah,Stade Rennais FC,Aljazair,24,434540000000.0
+11,Andriy Lunin,Kiper,Real Madrid,Ukraina,25,434540000000.0
+12,Yangel Herrera,Gel. Tengah,Girona FC,Venezuela,26,434540000000.0
+13,Evan Ndicka,Bek-Tengah,AS Roma,Pantai Gading,25,434540000000.0
+14,Antonee Robinson,Bek-Kiri,Fulham FC,Amerika Serikat,27,434540000000.0
+15,Sean Longstaff,Gel. Tengah,Newcastle United,Inggris,27,434540000000.0
+16,Tammy Abraham,Depan-Tengah,AC Milan,Inggris,27,434540000000.0
+17,Vangelis Pavlidis,Depan-Tengah,SL Benfica,Yunani,25,434540000000.0
+18,David Raum,Bek-Kiri,RB Leipzig,Jerman,26,434540000000.0
+19,Hee-chan Hwang,Depan-Tengah,Wolverhampton Wanderers,Korea Selatan,28,434540000000.0
+20,Kevin Danso,Bek-Tengah,RC Lens,Austria,26,434540000000.0
+21,Gianluca Mancini,Bek-Tengah,AS Roma,Italia,28,434540000000.0
+22,Iñaki Williams,Sayap Kanan,Athletic Bilbao,Ghana,30,434540000000.0
+23,Alex Iwobi,Sayap Kiri,Fulham FC,Nigeria,28,434540000000.0
+24,Alexander Sørloth,Depan-Tengah,Atlético de Madrid,Norwegia,28,434540000000.0
+0,Otávio,Gel. Serang,Al-Nassr FC,Portugal,29,434540000000.0
+1,Fabinho,Gel. Bertahan,Al-Ittihad Club,Brasil,31,434540000000.0
+2,Álex Remiro,Kiper,Real Sociedad,Spanyol,29,434540000000.0
+3,Ruben Loftus-Cheek,Gel. Tengah,AC Milan,Inggris,28,434540000000.0
+4,João Cancelo,Bek-Kanan,Al-Hilal SFC,Portugal,30,434540000000.0
+5,Kurt Zouma,Bek-Tengah,Al-Orobah FC,Prancis,30,434540000000.0
+6,Antoine Griezmann,Depan-Tengah,Atlético de Madrid,Prancis,33,434540000000.0
+7,Thibaut Courtois,Kiper,Real Madrid,Belgia,32,434540000000.0
+8,Antonio Rüdiger,Bek-Tengah,Real Madrid,Jerman,31,434540000000.0
+9,Lionel Messi,Sayap Kanan,Inter Miami CF,Argentina,37,434540000000.0
+10,Luis Guilherme,Sayap Kanan,West Ham United,Brasil,18,417160000000.0
+11,Lewis Ferguson,Gel. Serang,Bologna FC 1909,Skotlandia,25,417160000000.0
+12,Weston McKennie,Gel. Tengah,Juventus FC,Amerika Serikat,26,417160000000.0
+13,Waldemar Anton,Bek-Tengah,Borussia Dortmund,Jerman,28,417160000000.0
+14,Quilindschy Hartman,Bek-Kiri,Feyenoord Rotterdam,Belanda,22,399780000000.0
+15,Daniel Muñoz,Bek-Kanan,Crystal Palace,Kolombia,28,399780000000.0
+16,Pedro,Depan-Tengah,Clube de Regatas do Flamengo,Brasil,27,399780000000.0
+17,Trincão,Sayap Kanan,Sporting CP,Portugal,24,399780000000.0
+18,Nathan Tella,Gelandang Kanan,Bayer 04 Leverkusen,Nigeria,25,399780000000.0
+19,Carlos Baleba,Gel. Bertahan,Brighton & Hove Albion,Kamerun,20,382400000000.0
+20,Lewis Miley,Gel. Tengah,Newcastle United,Inggris,18,382400000000.0
+21,Antonio Nusa,Sayap Kiri,RB Leipzig,Norwegia,19,382400000000.0
+22,Michael Kayode,Bek-Kanan,ACF Fiorentina,Italia,20,382400000000.0
+23,Lewis Hall,Bek-Kiri,Newcastle United,Inggris,20,382400000000.0
+24,Julio Enciso,Gel. Serang,Brighton & Hove Albion,Paraguay,20,382400000000.0
+0,Jarell Quansah,Bek-Tengah,Liverpool FC,Inggris,21,382400000000.0
+1,Aitor Paredes,Bek-Tengah,Athletic Bilbao,Spanyol,24,382400000000.0
+2,Carlos Augusto,Bek-Kiri,Inter Milan,Brasil,25,382400000000.0
+3,Dwight McNeil,Sayap Kiri,Everton FC,Inggris,24,382400000000.0
+4,Jan Paul van Hecke,Bek-Tengah,Brighton & Hove Albion,Belanda,24,382400000000.0
+5,Elliot Anderson,Gel. Tengah,Nottingham Forest,Inggris,22,382400000000.0
+6,Bart Verbruggen,Kiper,Brighton & Hove Albion,Belanda,22,382400000000.0
+7,Zeno Debast,Bek-Tengah,Sporting CP,Belgia,21,382400000000.0
+8,Fábio Vieira,Gel. Serang,FC Porto,Portugal,24,382400000000.0
+9,Amad Diallo,Sayap Kanan,Manchester United,Pantai Gading,22,382400000000.0
+10,Jesper Lindstrøm,Gel. Serang,Everton FC,Denmark,24,382400000000.0
+11,James Garner,Gel. Bertahan,Everton FC,Inggris,23,382400000000.0
+12,Yunus Musah,Gel. Tengah,AC Milan,Amerika Serikat,21,382400000000.0
+13,Taylor Harwood-Bellis,Bek-Tengah,Southampton FC,Inggris,22,382400000000.0
+14,Morgan Rogers,Gel. Serang,Aston Villa,Inggris,22,382400000000.0
+15,Francisco Conceição,Sayap Kanan,Juventus FC,Portugal,21,382400000000.0
+16,Crysencio Summerville,Sayap Kiri,West Ham United,Belanda,23,382400000000.0
+17,Kevin Schade,Sayap Kiri,Brentford FC,Jerman,22,382400000000.0
+18,Marcos Senesi,Bek-Tengah,AFC Bournemouth,Argentina,27,382400000000.0
+19,Youssef En-Nesyri,Depan-Tengah,Fenerbahce,Maroko,27,382400000000.0
+20,Aaron Ramsdale,Kiper,Southampton FC,Inggris,26,382400000000.0
+21,Callum Hudson-Odoi,Sayap Kiri,Nottingham Forest,Inggris,24,382400000000.0
+22,Dan Ndoye,Sayap Kanan,Bologna FC 1909,Swiss,24,382400000000.0
+23,Sergiño Dest,Bek-Kanan,PSV Eindhoven,Amerika Serikat,24,382400000000.0
+24,Igor Zubeldia,Bek-Tengah,Real Sociedad,Spanyol,27,382400000000.0
+0,Kalvin Phillips,Gel. Bertahan,Ipswich Town,Inggris,28,382400000000.0
+1,Konstantinos Tsimikas,Bek-Kiri,Liverpool FC,Yunani,28,382400000000.0
+2,Pepelu,Gel. Bertahan,Valencia CF,Spanyol,26,382400000000.0
+3,Ben Chilwell,Bek-Kiri,Chelsea FC,Inggris,27,382400000000.0
+4,Dominic Calvert-Lewin,Depan-Tengah,Everton FC,Inggris,27,382400000000.0
+5,Ferland Mendy,Bek-Kiri,Real Madrid,Prancis,29,382400000000.0
+6,Sofyan Amrabat,Gel. Bertahan,Fenerbahce,Maroko,28,382400000000.0
+7,Lorenzo Pellegrini,Gel. Serang,AS Roma,Italia,28,382400000000.0
+8,Chris Führich,Sayap Kiri,VfB Stuttgart,Jerman,26,382400000000.0
+9,Vitaly Janelt,Gel. Bertahan,Brentford FC,Jerman,26,382400000000.0
+10,José María Giménez,Bek-Tengah,Atlético de Madrid,Uruguay,29,382400000000.0
+11,Patrik Schick,Depan-Tengah,Bayer 04 Leverkusen,Republik Ceko,28,382400000000.0
+12,James Ward-Prowse,Gel. Tengah,Nottingham Forest,Inggris,30,382400000000.0
+13,Piotr Zieliński,Gel. Tengah,Inter Milan,Polandia,30,382400000000.0
+14,Leon Goretzka,Gel. Tengah,Bayern Munich,Jerman,29,382400000000.0
+15,Jordan Pickford,Kiper,Everton FC,Inggris,30,382400000000.0
+16,Barış Alper Yılmaz,Sayap Kanan,Galatasaray,Turki,24,365010000000.0
+17,Jeanuël Belocian,Bek-Tengah,Bayer 04 Leverkusen,Prancis,19,347630000000.0
+18,Habib Diarra,Gel. Serang,RC Strasbourg Alsace,Senegal,20,347630000000.0
+19,Jack Hinshelwood,Bek-Kanan,Brighton & Hove Albion,Inggris,19,347630000000.0
+20,Alex Scott,Gel. Tengah,AFC Bournemouth,Inggris,21,347630000000.0
+21,Javi Guerra,Gel. Tengah,Valencia CF,Spanyol,21,347630000000.0
+22,Dango Ouattara,Sayap Kiri,AFC Bournemouth,Burkina Faso,22,347630000000.0
+23,Vanderson,Bek-Kanan,AS Monaco,Brasil,23,347630000000.0
+24,Rodrigo Muniz,Depan-Tengah,Fulham FC,Brasil,23,347630000000.0
+0,Alberto Moleiro,Gel. Serang,UD Las Palmas,Spanyol,21,347630000000.0
+1,Milos Kerkez,Bek-Kiri,AFC Bournemouth,Hungaria,21,347630000000.0
+2,Loïc Badé,Bek-Tengah,Sevilla FC,Prancis,24,347630000000.0
+3,Georges Mikautadze,Depan-Tengah,Olympique Lyon,Georgia,24,347630000000.0
+4,Jacob Greaves,Bek-Tengah,Ipswich Town,Inggris,24,347630000000.0
+5,Johnny Cardoso,Gel. Bertahan,Real Betis Balompié,Amerika Serikat,23,347630000000.0
+6,Orri Óskarsson,Depan-Tengah,Real Sociedad,Islandia,20,347630000000.0
+7,El Bilal Touré,Depan-Tengah,VfB Stuttgart,Mali,23,347630000000.0
+8,Beñat Turrientes,Gel. Tengah,Real Sociedad,Spanyol,22,347630000000.0
+9,Enzo Le Fée,Gel. Tengah,AS Roma,Prancis,24,347630000000.0
+10,Manu Koné,Gel. Tengah,AS Roma,Prancis,23,347630000000.0
+11,Matteo Ruggeri,Gelandang Kiri,Atalanta BC,Italia,22,347630000000.0
+12,Ander Barrenetxea,Sayap Kiri,Real Sociedad,Spanyol,22,347630000000.0
+13,Rayan Cherki,Gel. Serang,Olympique Lyon,Prancis,21,347630000000.0
+14,Toti,Bek-Tengah,Wolverhampton Wanderers,Portugal,25,347630000000.0
+15,Antony,Sayap Kanan,Manchester United,Brasil,24,347630000000.0
+16,Beto,Depan-Tengah,Everton FC,Guinea-Bissau,26,347630000000.0
+17,Arnaud Kalimuendo,Depan-Tengah,Stade Rennais FC,Prancis,22,347630000000.0
+18,Pierre Kalulu,Bek-Tengah,Juventus FC,Prancis,24,347630000000.0
+19,Filip Jørgensen,Kiper,Chelsea FC,Denmark,22,347630000000.0
+20,Antoine Semenyo,Sayap Kanan,AFC Bournemouth,Ghana,24,347630000000.0
+21,Martin Baturina,Gel. Serang,GNK Dinamo Zagreb,Kroasia,21,347630000000.0
+22,Leonardo Balerdi,Bek-Tengah,Olympique Marseille,Argentina,25,347630000000.0
+23,Strahinja Pavlović,Bek-Tengah,AC Milan,Serbia,23,347630000000.0
+24,Gabriel Sara,Gel. Tengah,Galatasaray,Brasil,25,347630000000.0
