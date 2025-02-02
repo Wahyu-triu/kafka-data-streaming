@@ -2,7 +2,7 @@
 
 1. run pip install -r requirements.txt to install required libraries
 2. to start kafka image, run : docker-compose -up -d
-3. go to qery dir
+3. go to query dir
     - create table in postgres using query from postgres.txt
     - create table in clickhouse using query from clickhouse.txt
 4. change wal_level in postgres
