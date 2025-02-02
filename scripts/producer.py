@@ -113,13 +113,13 @@ if accept_cookies:
 df = pd.DataFrame()
 
 num_page = 0
-max_entries = 21 # max 20
+max_page = 21 # max 20
 basepath = r'D:\Portofolio\DataEn\data'
 filename = 'player_market_value_2024.csv'
 
-while num_page < max_entries:
+while num_page < max_page:
     print(f'Scraping data number {len(df) + 1} to { len(df) + 25}')
-    if (len(df) == 0) and (num_page == 0):
+    if (num_page == 0):
         temp_df = scraper()
         df = pd.concat([df, temp_df])
         if not os.path.exists(basepath):
@@ -128,11 +128,14 @@ while num_page < max_entries:
         num_page = num_page + 1
         print(f'Succesfully scrap data from page {num_page}')
         print('Navigating to the next page ...')
-        time.sleep(2)
+        time.sleep(5)
     else:
-        try:  
-            driver.find_element(By.XPATH, '//a[@title="Ke Halaman Selanjutnya"]').click()
+        try:
+            next_button = WebDriverWait(driver, 15).until(EC.element_to_be_clickable((By.XPATH, '//a[@title="Ke Halaman Selanjutnya"]')))
+            next_button.click()
             print('Navigating to the next page ...')
+            time.sleep(5)
+        
             temp_df = scraper()
             df = pd.concat([df, temp_df])
             if not os.path.exists(basepath):
@@ -140,9 +143,10 @@ while num_page < max_entries:
             df.to_csv(os.path.join(basepath, filename))
             num_page = num_page + 1
             print(f'Succesfully scrap data from page {num_page}')
-            time.sleep(2)
+            time.sleep(5)
 
         except Exception as e:
+            print(e)
             print('Last page reached')
             break
 

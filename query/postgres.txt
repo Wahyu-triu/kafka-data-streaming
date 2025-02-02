@@ -8,3 +8,6 @@ CREATE TABLE db_football_player (
   age INTEGER,
   market_value FLOAT
 );
+
+-- DELETE TABLE
+drop table db_football_player ;

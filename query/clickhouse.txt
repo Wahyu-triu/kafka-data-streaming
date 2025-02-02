@@ -1,6 +1,6 @@
 -- CREATE MAIN TABLE
 
-CREATE OR REPLACE TABLE default.db_football_player
+CREATE OR REPLACE TABLE clickhouse.db_football_player
 (
     `player_name` String,
     `position` String,
@@ -10,14 +10,14 @@ CREATE OR REPLACE TABLE default.db_football_player
     `market_value` Float32,
     `insert_time_clickhouse` SimpleAggregateFunction(max, Datetime('Asia/Jakarta')) DEFAULT NOW()
 )
-ENGINE = MergeTree()
+ENGINE = ReplacingMergeTree
 PARTITION BY club_name
 ORDER BY market_value
 SETTINGS index_granularity = 8192;
 
 -- CREATE TABLE TO GET DATA FROM KAFKA TOPIC
 
-CREATE TABLE default.db_football_player_queue
+CREATE TABLE clickhouse.db_football_player_queue
 (
     `player_name` String,
     `position` String,
@@ -29,12 +29,12 @@ CREATE TABLE default.db_football_player_queue
 ENGINE = Kafka
 SETTINGS kafka_broker_list = 'kafka-kafka-1:9092',
  kafka_topic_list = 'etl.public.db_football_player',
- kafka_group_name = 'clickhouse-consumer-2',
+ kafka_group_name = 'clickhouse-consumer-1',
  kafka_format = 'JSONEachRow';
 
  -- CREATE MV TO QUERY DATA FROM db_football_player_queue_mv TO db_football_player
 
-CREATE MATERIALIZED VIEW default.db_football_player_queue_mv TO default.db_football_player
+CREATE MATERIALIZED VIEW clickhouse.db_football_player_queue_mv TO clickhouse.db_football_player
 AS 
 SELECT
     player_name,
@@ -43,7 +43,7 @@ SELECT
     country_name,
     age,
     market_value
-FROM default.db_football_player_queue;
+FROM clickhouse.db_football_player_queue;
 
 -- CREATE VIEW FOR STREAMLIT DASHBOARD
 
@@ -58,12 +58,11 @@ SELECT
     market_value,
 	toDateTime64(insert_time_clickhouse, 3, 'Asia/Jakarta') as insert_time_clickhouse,
 	toDateTime64(now(), 3 , 'Asia/Jakarta') as source_collected
-FROM `default`.db_football_player;
+FROM `clickhouse`.db_football_player;
 
 -- DELETE TABLE
-
-DROP TABLE `default`.db_football_player ;
-DROP TABLE `default`.db_football_player_queue ;
-DROP TABLE `default`.db_football_player_queue_mv ;
-DROP TABLE `default`.db_football_player_view ;
+ DROP TABLE `clickhouse`.db_football_player ;
+ DROP TABLE `clickhouse`.db_football_player_queue ;
+ DROP TABLE `clickhouse`.db_football_player_queue_mv ;
+ DROP TABLE `clickhouse`.db_football_player_view ;
 

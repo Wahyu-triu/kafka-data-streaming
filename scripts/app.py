@@ -10,11 +10,11 @@ from utils import *
 
 # Set Up Connection
 
-username = 'default'
+username = 'root'
 password = 'root'
 host = 'localhost'
 port = '18123'
-database = 'default'
+database = 'clickhouse'
 
 try:
     engine = create_engine(f'clickhousedb://{username}:{password}@{host}:{port}/{database}')
@@ -77,7 +77,7 @@ try:
     country_name, 
     age, 
     market_value
-    from `default`.db_football_player_view
+    from `clickhouse`.db_football_player_view
     where source_collected >=  insert_time_clickhouse -  INTERVAL {minute} MINUTE ;'''
 
     df = pd.read_sql(query, engine)
